@@ -1,1 +1,2 @@
-This is a test
+Welcome to my personal portfolio made from scratch with JS,HTML,CSS.Utilizes some apis provided by javascript such as Observer API and npm package such as GSAP for quick and performant animations.UI/UX design for this portfolio has been created entirely by me using Figma.![personal-portfolio-project](https://user-images.githubusercontent.com/62566277/142885266-b5185663-8290-473c-9cd5-a7e752a1cfaf.png)
+
